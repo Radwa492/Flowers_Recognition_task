@@ -15,14 +15,14 @@ The app uses a **TensorFlow/Keras deep learning model** trained on a flower data
 
 ---
 
-## 📸🌼🌺 Flower 
+## 🌼🌺 Flower 
 
 ![Daisy](daisy.png)
 
 ---
 ---
 
-## 📸🌼🌺 Deployment 
+## 📸 Deployment 
 
 ![Deployment](Deployment.png)
 
