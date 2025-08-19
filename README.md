@@ -32,6 +32,6 @@ The app uses a **TensorFlow/Keras deep learning model** trained on a flower data
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/flower-classification-app.git
-   cd flower-classification-app
+   git clone https://github.com/Radwa492/Flowers_Recognition_task.git
+   
 
