@@ -20,6 +20,13 @@ The app uses a **TensorFlow/Keras deep learning model** trained on a flower data
 ![Daisy](daisy.png)
 
 ---
+---
+
+## 📸🌼🌺 Deployment 
+
+![Deployment](Deployment.png)
+
+---
 
 ## ⚙️ Installation & Setup
 
